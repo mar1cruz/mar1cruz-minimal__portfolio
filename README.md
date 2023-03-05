@@ -1,1 +1,1 @@
-minimal-portfolio-zeta.vercel.app
+https://minimal-portfolio-zeta.vercel.app/
